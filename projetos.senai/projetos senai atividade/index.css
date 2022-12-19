@@ -1,0 +1,31 @@
+body{
+    border-style: solid;
+    border-color:#06003b;
+    border-width: 2px;
+color: #ffffff;
+background-color: #06003b;
+text-align: center;
+}
+   
+.topo{
+    border-style: solid;
+    border-color:#06003b;
+    border-width: 2px;
+color: #ffffff;
+background-color: #06003b;
+text-align: center;
+}
+
+.html{
+    text-align:justify ;
+    margin-top: 30px;
+    margin-left: 400px;
+    width: 12px;
+    height: 0px;
+    
+}
+.css{
+    text-align:end ;
+    width:auto;
+    margin-right: 400px;
+}

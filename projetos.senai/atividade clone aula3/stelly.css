@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+#navegacao{
+    height: 70px;
+    background-color: rgb(10, 0, 66);
+}
+ul{
+    list-style: none;
+}
+li {
+   float: left;
+   margin: 20px;
+}
+li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 20px;
+    transition: 1s;
+    border-radius: 5px;
+}
+li a:hover{
+    background-color: aliceblue;
+    color: rgb(10, 0, 66);
+    transition: 1s;
+
+}
+#entrada{
+   border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px;
+
+}
+hr{
+width: 7%;
+margin: auto;
+border: 1px solid;
+}
+.entrada ,p{
+    font-size: 2em;
+}
+.entrada, span{
+    font-size: 1.5em;
+}
+.link-button{
+    border: 1px solid rgb(10, 0, 66);
+    padding: 10px;
+    display: block;
+    width: 150px;
+    font-size: 1.6em;
+    text-decoration: none;
+    border-radius: 10px;
+    color: rgb(10, 0, 66);
+    margin: auto;
+    margin-top: 50px;
+}
+.tres{
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    
+}
+hr{
+    width: 6%;
+    margin: auto;
+    border: 1px solid ;
+    margin-top: 20px;
+
+}
+.serviços{
+
+}
